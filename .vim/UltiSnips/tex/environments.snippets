@@ -1,0 +1,110 @@
+snippet init "Inicia um novo ambiente LaTeX" b
+\documentclass{$1}
+\input{../../../preamble.tex}
+\author{Luan Leal}
+\title{$2}
+
+\begin{document}
+\maketitle
+	$0
+\end{document}
+endsnippet
+
+snippet env "New LaTeX environment" b
+\begin{$1}
+	$0
+\end{$1}
+endsnippet
+
+snippet dfn "Ambiente definição" b
+\begin{dfn}
+	$0
+\end{dfn}
+endsnippet
+
+snippet obs "Ambiente observação" b
+\begin{obs}
+	$0
+\end{obs}
+endsnippet
+
+snippet thm "Ambiente teorema solo" b
+\begin{dfn}
+	$0
+\end{dfn}
+endsnippet
+
+snippet thmd "Ambiente teorema + demonstração" b
+\begin{thm}
+	$1
+\end{thm}
+\begin{dms}
+	$0
+\end{dms}
+endsnippet
+
+snippet xcs "Ambiente exercício solo" b
+\begin{xcs}
+	$0
+\end{xcs}
+endsnippet
+
+snippet xcsd "Ambiente exercício + resolução" b
+\begin{xcs}
+	$1
+\end{xcs}
+\begin{rsl}
+	$0
+\end{rsl}
+endsnippet
+
+snippet xp "Ambiente de exemplo" b
+\begin{xp}
+	$0
+\end{xp}
+endsnippet
+
+snippet lem "Ambiente de lema" b
+\begin{lema}
+	$0
+\end{lema}
+endsnippet
+
+snippet fig "Cria uma figura centralizada" b
+\begin{figure}[H]
+	\centering
+	\includegraphics[width=.5\linewidth]{${1:image.png}}
+	\caption{${2:Legenda}}
+	\label{${3:Ref interna}}
+\end{figure}
+endsnippet
+
+snippet tab "Cria uma tabela centralizada" b
+\begin{center}
+\begin{tabular}{${1:c c c}}
+\hline
+${2:Título} \\\\
+\hline
+${3:Conteúdo}
+\hline
+\end{tabular}
+\end{center}
+endsnippet
+
+snippet enum "Ambiente de lista numérica" b
+\begin{enumerate}
+	$0
+\end{enumerate}
+endsnippet
+
+snippet enuma "Ambiente de lista alfabética" b
+\begin{enumerate}[label=\alph*.]
+	$0
+\end{enumerate}
+endsnippet
+
+snippet item "Ambiente de lista não ordenada" b
+\begin{itemize}
+	$0
+\end{itemize}
+endsnippet
