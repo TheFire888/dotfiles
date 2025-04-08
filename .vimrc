@@ -35,9 +35,9 @@ noremap <leader>m <Cmd>Make<CR>
 let g:UltiSnipsExpandTrigger = '<Tab>'
 let g:UltiSnipsJumpForwardTrigger = '<Tab>'
 let g:UltiSnipsJumpBackwardTrigger = '<S-Tab>'
-xnoremap "+y y:call system("wl-copy", @")<cr>
-nnoremap "+p :let @"=substitute(system("wl-paste --no-newline"), '<C-v><C-m>', '', 'g')<cr>p
-nnoremap "*p :let @"=substitute(system("wl-paste --no-newline --primary"), '<C-v><C-m>', '', 'g')<cr>p
+xnoremap <leader>y y:call system("wl-copy", @")<cr>
+nnoremap <leader>+p :let @"=substitute(system("wl-paste --no-newline"), '<C-v><C-m>', '', 'g')<cr>p
+nnoremap <leader>*p :let @"=substitute(system("wl-paste --no-newline --primary"), '<C-v><C-m>', '', 'g')<cr>p
 
 " ----------------- STATUS LINE -------------------
 
@@ -51,7 +51,7 @@ set statusline+=\ %F\ %M\ %Y\ %R
 set statusline+=%=
 
 " Status line right side.
-set statusline+=\ ascii:\ %b\ hex:\ 0x%B\ row:\ %l\ col:\ %c\ percent:\ %p%%
+set statusline+=row:\ %l\ col:\ %c\ \ 
 
 " Show the status on the second to last line.
 set laststatus=2
