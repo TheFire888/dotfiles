@@ -1,0 +1,5 @@
+[Libinput][1267][12632][ELAN050A:00 04F3:3158 Touchpad]
+NaturalScroll=false
+
+[Mouse]
+X11LibInputXAccelProfileFlat=true

@@ -1,0 +1,13 @@
+[ExtractDialog]
+1920x1080 screen: Window-Maximized=true
+DirHistory[$e]=$HOME/Programas/2SEM-COMP/,$HOME/Downloads/,$HOME/Programas/2SEM-COMP/EP03/,$HOME/Latex/fisicaII/R1/fig/,$HOME/Downloads/FIS-R1-Copo/,$HOME/Programas/2SEM-COMP/EP02/,$HOME/Downloads/ChimeraX/PDB/,$HOME/Books/Biologia/,$HOME/Programas/CCM/,$HOME/Área de trabalho/
+
+[Extraction]
+openDestinationFolderAfterExtraction=true
+
+[General]
+LockSidebar=true
+ShowSidebar=true
+
+[MainWindow]
+StatusBar=Disabled

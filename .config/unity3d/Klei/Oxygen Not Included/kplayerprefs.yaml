@@ -1,0 +1,45 @@
+strings:
+  INSTALL_TIMESTAMP: 638680493878553360
+  SaveFilenameKey/: /home/thefire888/.config/unity3d/Klei/Oxygen Not Included/cloud_save_files/76561199802931281/Ill Brigade/Ill Brigade.sav
+  SandboxTools.SelectedEntity: MushBar
+  SandboxTools.SelectedDisease: FoodPoisoning
+  SandboxTools.SelectedStory: MorbRoverMaker
+ints:
+  SESSION_ID: 4
+  LowResTextures: 0
+  ResolutionWidth: 1920
+  ResolutionHeight: 1080
+  RefreshRateNumerator: 1
+  FullScreen: 1
+  ColorModeID: 0
+  GAME_ID: 1
+  SandboxTools.SelectedElement: 129
+  SandboxTools.DiseaseCount: 0
+  SandboxTools.BrushSize: 1
+  SandbosTools.MoraleAdjustment: 50
+  HideTutorial_CheckState: 1
+  HideTutorial_TM_Basics: 1
+  HideTutorial_TM_Welcome: 1
+  HideTutorial_TM_Digging: 1
+  HideTutorial_TM_FetchingWater: 1
+  HideTutorial_TM_Priorities: 1
+  HideTutorial_TM_LotsOfGerms: 1
+  HideTutorial_TM_ThermalComfort: 1
+  HideTutorial_TM_DiseaseCooking: 1
+  HideTutorial_TM_Morale: 1
+  HideTutorial_TM_Mopping: 1
+  HideTutorial_TM_Plumbing: 1
+  NextUniqueID: 12557
+floats:
+  Volume_SFX: 1
+  Volume_Music: 1
+  Volume_Ambience: 1
+  Volume_Master: 1
+  Volume_UI: 1
+  CameraSpeed: 1
+  SandboxTools.NoiseScale: 1
+  SandboxTools.NoiseDensity: 1
+  SandboxTools.Mass: 1
+  SandbosTools.Temperature: 300
+  SandbosTools.TemperatureAdditive: 5
+  SandbosTools.StressAdditive: 50

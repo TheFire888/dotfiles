@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<object class="org.opensourcephysics.cabrillo.tracker.Tracker$Preferences">
+    <property name="xuggle_smooth" type="boolean">true</property>
+    <property name="tracker_jar" type="string">tracker.jar</property>
+    <property name="cache" type="string">/home/thefire888/.config/OSP/Cache</property>
+    <property name="upgrade_interval" type="int">0</property>
+    <property name="last_checked" type="int">1744628424</property>
+    <property name="file_chooser_directory" type="string">/home/thefire888/Downloads/FIS-R3-Tubos</property>
+    <property name="recent_files" type="collection" class="java.util.ArrayList">
+        <property name="item" type="string">/home/thefire888/Downloads/FIS-R3-Tubos/20250331_164831_100553.mp4</property>
+        <property name="item" type="string">/home/thefire888/Downloads/FIS-R3-Tubos/20250331_165011.mp4</property>
+        <property name="item" type="string">/home/thefire888/Downloads/FIS-R1-Copo/CopoVidro5.mp4</property>
+        <property name="item" type="string">/home/thefire888/.config/OSP/Cache/osp-opensourcephysics_github_io/resources/CAB/experiments/projectile_model.zip</property>
+        <property name="item" type="string">/home/thefire888/Vídeos/BallTossOut.trz</property>
+        <property name="item" type="string">/home/thefire888/Vídeos/BallTossOut.trk</property>
+    </property>
+</object>

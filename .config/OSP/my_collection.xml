@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<object class="org.opensourcephysics.tools.LibraryCollection">
+    <property name="name" type="string">Minha Coleção</property>
+    <property name="base_path" type="string">/home/thefire888/.config/OSP</property>
+</object>

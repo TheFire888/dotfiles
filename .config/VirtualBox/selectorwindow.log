@@ -1,0 +1,23 @@
+00:00:00.442610 VirtualBox GUI VM Selector Window 7.1.6 r167084 linux.amd64 (Jan 27 2025 07:52:25) release log
+00:00:00.442613 Log opened 2025-02-17T16:44:58.441279000Z
+00:00:00.442614 Build Type: release
+00:00:00.442617 OS Product: Linux
+00:00:00.442618 OS Release: 6.13.2-arch1-1
+00:00:00.442618 OS Version: #1 SMP PREEMPT_DYNAMIC Sat, 08 Feb 2025 18:54:55 +0000
+00:00:00.442661 DMI Product Name: Aspire A515-45
+00:00:00.442668 DMI Product Version: V1.52
+00:00:00.442673 Firmware type: UEFI
+00:00:00.443038 Secure Boot: Disabled
+00:00:00.443093 Host RAM: 7283MB (7.1GB) total, 4521MB (4.4GB) available
+00:00:00.443096 Executable: /usr/lib/virtualbox/VirtualBox
+00:00:00.443097 Process ID: 8002
+00:00:00.443097 Package type: LINUX_64BITS_GENERIC (OSE)
+00:00:00.443162 Qt version: 6.8.2
+00:00:00.444735 GUI: UIMediumEnumerator: Initial medium-enumeration finished!
+00:00:00.449222 GUI: UIMediumEnumerator: Medium-enumeration started...
+00:00:00.449241 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:00:05.300636 GUI: UIInvisibleWindow::sltFallback: Move event missing. Screen: 0, work area: 959x539 x 800x800
+00:00:05.300682 GUI: UIDesktopWidgetWatchdog::sltHandleHostScreenAvailableGeometryCalculated: Screen 0 work area is actually resized to: 959x539 x 800x800
+00:00:42.765655 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:03:15.253142 GUI: UICommon: Handling aboutToQuit request..
+00:03:16.339363 GUI: UICommon: aboutToQuit request handled!

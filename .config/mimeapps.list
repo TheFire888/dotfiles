@@ -1,0 +1,10 @@
+[Default Applications]
+application/pdf=org.pwmt.zathura-pdf-mupdf.desktop
+x-scheme-handler/discord-1216669957799018608=discord-1216669957799018608.desktop
+
+[Added Associations]
+application/pdf=org.pwmt.zathura-pdf-mupdf.desktop;
+application/zip=org.kde.ark.desktop;
+video/mp4=mpv.desktop;firefox.desktop;
+image/png=mupdf.desktop;gimp.desktop;
+text/plain=org.kde.kate.desktop;

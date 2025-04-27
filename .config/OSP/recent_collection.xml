@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<object class="org.opensourcephysics.tools.LibraryCollection">
+    <property name="name" type="string">Recent</property>
+    <property name="base_path" type="string">/home/thefire888/.config/OSP</property>
+    <property name="resources" type="array" class="[Lorg.opensourcephysics.tools.LibraryResource;">
+        <property name="[0]" type="object">
+        <object class="org.opensourcephysics.tools.LibraryResource">
+            <property name="name" type="string">BallTossOut.trz</property>
+            <property name="base_path" type="string">/home/thefire888/Vídeos</property>
+            <property name="target" type="string">BallTossOut.trz</property>
+            <property name="type" type="string">Tracker</property>
+        </object>
+        </property>
+    </property>
+</object>

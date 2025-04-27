@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<object class="org.opensourcephysics.tools.Library">
+    <property name="name" type="string">thefire888 Biblioteca </property>
+    <property name="collection_paths" type="array" class="[Ljava.lang.String;">
+        <property name="[0]" type="string">/home/thefire888/.config/OSP/my_collection.xml</property>
+    </property>
+    <property name="collection_names" type="array" class="[Ljava.lang.String;">
+        <property name="[0]" type="string">Minha Coleção</property>
+    </property>
+    <property name="open_tabs" type="array" class="[Ljava.lang.String;">
+        <property name="[0]" type="string">/home/thefire888/.config/OSP/recent_collection.xml</property>
+        <property name="[1]" type="string">https://opensourcephysics.github.io/resources/CAB/cabrillo_collection.xml</property>
+    </property>
+    <property name="recently_opened" type="array" class="[Ljava.lang.String;">
+        <property name="[0]" type="string">/home/thefire888/Vídeos/BallTossOut.trz</property>
+        <property name="[1]" type="string">https://opensourcephysics.github.io/resources/CAB/cabrillo_collection.xml</property>
+    </property>
+    <property name="recently_opened_names" type="array" class="[Ljava.lang.String;">
+        <property name="[0]" type="string">BallTossOut.trz</property>
+        <property name="[1]" type="string">Tracker Sampler</property>
+    </property>
+    <property name="cache" type="string">/home/thefire888/.config/OSP/Cache</property>
+</object>
